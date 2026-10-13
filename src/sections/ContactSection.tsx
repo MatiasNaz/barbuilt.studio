@@ -1,0 +1,7 @@
+import "./ContactSection.css";
+
+function ContactSection() {
+  return <section id="contact"></section>;
+}
+
+export default ContactSection;

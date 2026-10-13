@@ -1,0 +1,20 @@
+:root {
+  --charcoal: #19191c;
+  --light-charcoal: #29262c;
+  --black: #111114;
+  --off-white: #f5f0e8;
+  --light-gray: #d0c7cc;
+  --plum: #80516f;
+  --champagne: #c7a77a;
+  --orchid: #c5a0ba;
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: var(--charcoal);
+  color: var(--off-white);
+}
